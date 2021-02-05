@@ -1,0 +1,9 @@
+method,score
+GaussianNB,0.5081845238095238
+MultinomialNB,0.5520833333333334
+BernoulliNB,1.0
+KNeighborsClassifier,0.9933035714285714
+MLPClassifier,0.6941964285714286
+XGBClassifier,1.0
+Average,1.0
+Model Stack,1.0
